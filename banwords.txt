@@ -472,7 +472,6 @@ wedi
 cok
 ketek
 banci
-ket
 kirek
 itil
 lsbi
