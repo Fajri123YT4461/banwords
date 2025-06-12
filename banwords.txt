@@ -381,7 +381,6 @@ cipap
 pundek
 sundal
 lancap
-mati
 binatang
 cilaka
 berambus
