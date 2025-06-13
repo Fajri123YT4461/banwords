@@ -483,5 +483,3 @@ anjeng
 tll
 gblk
 kuntul
-anjir
-anjrot
