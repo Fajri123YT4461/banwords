@@ -443,9 +443,8 @@ stn
 ibls
 djjl
 djal
-edn
 sntng
-bbl
+buto
 idt
 cbl
 msm
